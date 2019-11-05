@@ -1,0 +1,7 @@
+function pruebaGit(number) {
+    if(number > 0 && number % 2 == 0){
+        return "Es positivo y multiplo de 2"
+    }else {
+        return "Es negativo o impar"
+    }
+}
