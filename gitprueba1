@@ -1,0 +1,3 @@
+let frase = "Hoy fui al supermercado"
+
+console.log(frase)
