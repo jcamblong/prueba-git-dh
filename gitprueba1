@@ -1,0 +1,3 @@
+let prueba = "Esto es una prueba de GIT"
+
+console.log(prueba)
