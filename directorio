@@ -1,0 +1,3 @@
+let suma = 4+6
+
+console.log(suma)
