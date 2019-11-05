@@ -1,3 +1,7 @@
 let prueba = "Esto es una prueba de GIT"
 
 console.log(prueba)
+
+let frase = "Hoy fui al supermercado"
+
+console.log(frase)
